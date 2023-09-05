@@ -37,6 +37,12 @@
   </a>
 </div>
 
+</br>
+</br>
+</br>
+
+
+
  <hr/>
 
  <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
@@ -47,6 +53,9 @@
 </div>
 
 <br/>
+
+</br>
+</br>
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
@@ -58,9 +67,13 @@
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mitali2003&show_icons=true&locale=en&layout=compact" alt="top langs" />
 </div>
 <br/><br/>
+
+</br>
 <hr/>
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;)">
 </h3>
+
+</br>
 
 <br/>
