@@ -5,19 +5,16 @@
 </h1>
 
 <img src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" width=400 align="right" />
-<h3 align="center">A Beginner Level Web developer from India</h3>
+<h3 align="center">Frontend developer</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **Restful API**
-
-🌱 I’m currently learning **Express and MongoDB**
 
 👨‍💻 All of my projects are available at [https://mitali2003.github.io/Portfolio/](https://mitali2003.github.io/Portfolio/)
 
-💬 Ask me about **HTML, CSS, JS ,Express, MySQL**
+💬 Ask me about **HTML, CSS, JS ,React, Next, Git, GitHub, Strapi**
 
  📫 How to reach me **mitaligohel95@gmail.com**
  
@@ -43,8 +40,8 @@
  <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,express,mongodb,c,java,linux" /><br>
-    <img src="https://skillicons.dev/icons?i=bootstrap,mysql,html,css,vscode,figma,git,postman,blender," />
+    <img src="https://skillicons.dev/icons?i=github,javascript,linux" /><br>
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,figma,git" />
 </div>
 
 <br/>
