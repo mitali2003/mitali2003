@@ -12,7 +12,7 @@
 <div align="center">
  
 
-👨‍💻 All of my projects are available at [https://mitali2003.github.io/Portfolio/](https://mitali2003.github.io/Portfolio/)
+👨‍💻 All of my projects are available at [https://mitali-portfolio-liard.vercel.app/]
 
 💬 Ask me about **HTML, CSS, JS ,React, Next, Git, GitHub, Strapi**
 
